@@ -29,9 +29,16 @@ public class arrayPratice {
     for (String string : s) {
 		System.out.println(string);
     }
-		HashMap<String,String> cc=new HashMap<String,String>();
+	HashMap<String,String> cc=new HashMap<String,String>();
 		cc.put("subbu", "342");
 		System.out.println(cc);
+
+        System.out.println(cc);
+System.out.println(cc);System.out.println(c);
+System.out.println(cc);
+System.out.println(cc);
+System.out.println(c);
+System.out.println(cc);
 	
 	}
 
