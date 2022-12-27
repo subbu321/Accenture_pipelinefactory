@@ -2,6 +2,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.HashMap;
 import java.util.Iterator;
+import java.util.Map;
 
 public class arrayPratice {
 
@@ -33,13 +34,10 @@ public class arrayPratice {
 		cc.put("subbu", "342");
 		System.out.println(cc);
 
-        System.out.println(cc);
-System.out.println(cc);System.out.println(c);
-System.out.println(cc);
-System.out.println(cc);
-System.out.println(c);
-System.out.println(cc);
-	
+      
+		Map<String,Integer>map=new HashMap<>();
+	System.out.println(map.isEmpty());
+		
 	}
 
 }
